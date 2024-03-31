@@ -1,3 +1,5 @@
+It's live @ https://food-delivery-backend-ldog.onrender.com/api-docs/
+
 # Project Setup Guide
 
 This guide will walk you through setting up the project and its required database locally on your machine.
